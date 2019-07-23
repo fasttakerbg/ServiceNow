@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="todorTestApp" max_length="40" name="x_298663_serviceno_todortestapp" type="collection">
         <element label="album" max_length="40" name="album" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Rank" max_length="40" name="rank" type="string"/>
         <element label="year" max_length="40" name="year" type="string"/>
     </element>
 </database>
