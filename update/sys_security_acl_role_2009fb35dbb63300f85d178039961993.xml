@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-23 12:17:17</sys_created_on>
+        <sys_id>2009fb35dbb63300f85d178039961993</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_298663_serviceno_todortestapp.x_298663_serviceno.todortestapp_user</sys_name>
+        <sys_package display_value="ServiceNow Test app" source="x_298663_serviceno">9228fbbddb763300f85d17803996195a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow Test app">9228fbbddb763300f85d17803996195a</sys_scope>
+        <sys_security_acl display_value="x_298663_serviceno_todortestapp">6409fb35dbb63300f85d178039961990</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_2009fb35dbb63300f85d178039961993</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-23 12:17:17</sys_updated_on>
+        <sys_user_role display_value="x_298663_serviceno.todortestapp_user" name="x_298663_serviceno.todortestapp_user">ac093b35dbb63300f85d178039961979</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
